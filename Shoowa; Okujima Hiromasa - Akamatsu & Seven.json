@@ -1,8 +1,39 @@
 {
-  "title": "Shoowa; Okujima Hiromasa - Akamatsu & Seven",
+  "title": "Akamatsu & Seven",
   "description": "Akamatsu là một cậu học sinh cấp ba có chút ngỗ nghịch, tràn đầy nhiệt huyết trẻ nhưng lại mang chút ngây ngô, lương thiện. Trong phút chán chường, cậu đã gặp Seven - một thanh niên kỳ quái sống bờ bụi ở công viên, và lôi kéo anh vào chuỗi ngày chung sống hóm hinh cùng mình.\nĐạo lý giang hồ chính là \"Không đánh không quen biết\" đó mà~!",
   "artist": "Okujima Hiromasa",
   "author": "Shoowa",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Quyển 1",
+      "volume": "",
+      "last_updated": "1655310955",
+      "groups": {
+        "": [
+          "https://m.imgur.com/a/oI30URl"
+        ]
+      }
+    },
+    "2": {
+      "title": "Quyển 2",
+      "volume": "",
+      "last_updated": "1655311085",
+      "groups": {
+        "": [
+          "https://m.imgur.com/a/7yFfUZI"
+        ]
+      }
+    },
+    "3": {
+      "title": "Quyển 3",
+      "volume": "",
+      "last_updated": "1655311182",
+      "groups": {
+        "": [
+          "https://imgur.io/a/iN28LXh"
+        ]
+      }
+    }
+  }
 }
