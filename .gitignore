@@ -1,1 +1,10 @@
+.gitignore
+
 .DS_Store
+.trash
+.zettel-notes
+
+.stglobalignore
+.stignore
+.st
+.st*
